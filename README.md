@@ -19,3 +19,6 @@ DARK THEME
 ![darkdemoTODO](https://github.com/Aryan-Jadon18/ToDo/assets/95238912/ee476dab-9b8f-4cd9-8e1c-e6e425b9bbf5)
 
                                       SO WHAT I'M A CAFFIENE ADDICT
+                                      
+-------------------
+To run this project in your machine, just fork it in any code editor and open with live server or similar tool.
