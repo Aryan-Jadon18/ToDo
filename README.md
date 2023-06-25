@@ -1,4 +1,6 @@
 # ToDo
+[Live Demo](https://inspiring-palmier-6e7c44.netlify.app/)
+
 A beautiful ToDo list app with HTML, CSS, Vanilla JS. It has 3 beautiful themes for your liking.
 -------------------
 **Landing Page Preview**
